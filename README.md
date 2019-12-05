@@ -21,6 +21,6 @@ You can learn more in the [Postman documentation about the app](https://document
 
 ## Contact
 
-LinkedIn (https://www.linkedin.com/in/cristiano-soares-b46928192/)
+[LinkedIn](https://www.linkedin.com/in/cristiano-soares-b46928192/)
 
-Email (cristiano.adlim@gmail.com)
+Email: cristiano.adlim@gmail.com
