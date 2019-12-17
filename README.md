@@ -11,7 +11,7 @@ This project was designed with Node.js, express and sequelize.
 
 ## About
 
-Rocketseat application in GoStack 8.0 module 02 about back-end in node.
+Rocketseat application in GoStack 8.0 about back-end in node.
 Basically this app creates an user and manage his session, also there is all the CRUD
 interface if the user wants to edit or delete the account.
 
