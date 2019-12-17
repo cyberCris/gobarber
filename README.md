@@ -8,6 +8,7 @@ This project was designed with Node.js, express and sequelize.
 *   pg-hstore
 *   bcryptjs
 *   yup
+*   date-fns
 
 ## About
 
