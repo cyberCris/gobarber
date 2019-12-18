@@ -11,6 +11,7 @@ This project was designed with Node.js, express and ORM's (sequelize and mongoos
 *   yup
 *   date-fns
 *   nodemailer
+*   bee-queue
 
 ## About
 
