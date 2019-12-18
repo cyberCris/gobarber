@@ -1,5 +1,10 @@
 This project was designed with Node.js, express and ORM's (sequelize and mongoose).
 
+## Databases used
+*   PostgreSQL
+*   MongoDB
+*   Redis
+
 ## Librarys used
 *   express
 *   sequelize
