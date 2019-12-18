@@ -1,14 +1,16 @@
-This project was designed with Node.js, express and sequelize.
+This project was designed with Node.js, express and ORM's (sequelize and mongoose).
 
 ## Librarys used
 *   express
 *   sequelize
+*   mongoose
 *   jsonwebtoken
 *   pg
 *   pg-hstore
 *   bcryptjs
 *   yup
 *   date-fns
+*   nodemailer
 
 ## About
 
