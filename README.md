@@ -1,9 +1,9 @@
 This project was designed with Node.js, express and ORM's (sequelize and mongoose).
 
-## Databases used
-*   PostgreSQL
-*   MongoDB
-*   Redis
+## About
+
+Rocketseat application in GoStack 8.0 about back-end in node.
+Basically this app manages an Barber where users makes appointments and this notifys providers linked to the action , also there is all the CRUD interface if the user wants to edit or delete the appointment, etc.
 
 ## Librarys used
 *   express
@@ -18,11 +18,10 @@ This project was designed with Node.js, express and ORM's (sequelize and mongoos
 *   nodemailer
 *   bee-queue
 
-## About
-
-Rocketseat application in GoStack 8.0 about back-end in node.
-Basically this app creates an user and manage his session, also there is all the CRUD
-interface if the user wants to edit or delete the account.
+## Databases used
+*   PostgreSQL
+*   MongoDB
+*   Redis
 
 ## Available Scripts
 
