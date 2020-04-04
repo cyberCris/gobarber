@@ -25,11 +25,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-a-aplicação">Sobre a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## About
+## :rocket: About 
 
 Rocketseat application in GoStack 8.0 about back-end in node.
 Basically this app manages an Barber where users makes appointments and this notifys providers linked to the action , also there is all the CRUD interface if the user wants to edit or delete the appointment, etc.
