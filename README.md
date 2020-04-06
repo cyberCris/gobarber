@@ -65,6 +65,7 @@ In the project directory, you can run:
 ### `yarn dev`
 
 Runs the app in the development mode.<br>
+APP_URL=http://localhost:3333
 
 ## Architecture
 
