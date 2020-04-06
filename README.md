@@ -6,26 +6,28 @@ Rocketseat application in GoStack 8.0 about back-end in node.
 Basically this app manages an Barber where users makes appointments and this notifys providers linked to the action , also there is all the CRUD interface if the user wants to edit or delete the appointment, etc.
 
 ## Librarys used
-*   express
-*   sequelize
-*   mongoose
-*   jsonwebtoken
-*   pg
-*   pg-hstore
-*   bcryptjs
-*   yup
-*   date-fns
-*   nodemailer
-*   bee-queue
-*   sentry
-*   express-async-errors
-*   youch
-*   dotenv
+
+-   express
+-   sequelize
+-   mongoose
+-   jsonwebtoken
+-   pg
+-   pg-hstore
+-   bcryptjs
+-   yup
+-   date-fns
+-   nodemailer
+-   bee-queue
+-   sentry
+-   express-async-errors
+-   youch
+-   dotenv
 
 ## Databases used
-*   PostgreSQL
-*   MongoDB
-*   Redis
+
+-   PostgreSQL
+-   MongoDB
+-   Redis
 
 ## Available Scripts
 
@@ -34,10 +36,7 @@ In the project directory, you can run:
 ### `yarn dev`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3333](http://localhost:3333) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+APP_URL=http://localhost:3333
 
 ## Architecture
 
