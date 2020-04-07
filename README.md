@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  GoBarber - Aplication developed during NodeJs course
+  GoBarber - Application developed during NodeJs course
 </h3>
 
 <h3 align="center">
