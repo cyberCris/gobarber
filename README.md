@@ -33,7 +33,7 @@
 Rocketseat application in GoStack 8.0 about back-end in node.
 Basically this app manages an Barber where users makes appointments and this notifys providers linked to the action , also there is all the CRUD interface if the user wants to edit or delete the appointment, etc.
 
-## Librarys used
+## :books: Librarys used
 
 -   express
 -   sequelize
@@ -52,7 +52,7 @@ Basically this app manages an Barber where users makes appointments and this not
 -   dotenv
 -   cors
 
-## Tools used
+## :wrench: Tools used
 
 -   Docker
 
