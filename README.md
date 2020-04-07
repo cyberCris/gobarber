@@ -1,7 +1,9 @@
-This project was designed with Node.js, express and ORM's (sequelize and mongoose).
+<h1 align="center">
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+</h1>
 
 <h3 align="center">
-  GoBarber - Aplication developed during NodeJs course
+  GoBarber - Application developed during NodeJs course
 </h3>
 
 <h3 align="center">
@@ -48,14 +50,11 @@ Basically this app manages an Barber where users makes appointments and this not
 -   express-async-errors
 -   youch
 -   dotenv
-    <<<<<<< HEAD
-    =======
 -   cors
 
 ## Tools used
 
 -   Docker
-    > > > > > > > bcb626d... adjustments into controllers return
 
 ## Databases used
 
